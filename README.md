@@ -5,7 +5,9 @@
 `npm init vite@latest`
 
 `npm install -D tailwindcss@latest postcss@latest autoprefixer@latest`
+
 `npx tailwindcss init -p`
+
 `npm i -D vite-plugin-elm`
 
 ## tailwind.config.js
@@ -32,6 +34,8 @@ export default defineConfig({
 
 ## Getting ready to develop
 `git init`
+
 `elm init`
+
 `npm run dev`
 
