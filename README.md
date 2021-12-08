@@ -1,4 +1,15 @@
-# Setting up Vite for Elm and TailwindCss
+# Vite with Elm and TailwindCss
+
+## Get Started
+
+`git init`
+
+`elm init`
+
+`npm run dev`
+
+
+# Setting up from scratch
 
 ## Install Vite + TailwindCss + PostCSS + Autoprefixer
 
@@ -71,9 +82,5 @@ main =
 
 
 ## Getting ready to develop
-`git init`
 
-`elm init`
-
-`npm run dev`
 
