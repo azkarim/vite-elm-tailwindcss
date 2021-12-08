@@ -58,10 +58,14 @@ Elm.Main.init({
 ```
 module Main exposing (main)
 
-import Html exposing (Html, text)
+import Html exposing (Html, div, text)
+import Html.Attributes exposing (class)
+
 
 main =
-    Html.text "Hello World!"
+    div [ class "w-screen h-screen bg-blue-100" ]
+        [ text "Hello World!" ]
+
 ```
 
 
