@@ -31,6 +31,41 @@ export default defineConfig({
 
 *Note : change to {debug: false} when you compile for production*
 
+## Add to main.js
+
+```
+import { Elm } from '/src/Main.elm'
+
+Elm.Main.init({
+  node: document.getElementById('app'),
+  flags: ""
+})
+```
+
+
+## style.css
+
+```
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
+
+## Main.elm
+
+`touch src/Main.elm`
+
+```
+module Main exposing (main)
+
+import Html exposing (Html, text)
+
+main =
+    Html.text "Hello World!"
+```
+
+
+
 ## Getting ready to develop
 `git init`
 
