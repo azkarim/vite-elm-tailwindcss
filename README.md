@@ -2,7 +2,7 @@
 
 ## Get Started
 
-`git init`
+`npm install`
 
 `elm init`
 
@@ -79,8 +79,8 @@ main =
 
 ```
 
-
-
 ## Getting ready to develop
+
+`npm run dev`
 
 
