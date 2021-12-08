@@ -10,8 +10,7 @@
 
 `npm i -D vite-plugin-elm`
 
-## tailwind.config.js
-`touch tailwind.config.js`
+## Add to tailwind.config.js
 
 ```
 mode: 'jit,
