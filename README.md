@@ -1,4 +1,4 @@
-# Vite with Elm and TailwindCss
+# Vite with Elm and TailwindCSS
 
 ## Get Started
 
