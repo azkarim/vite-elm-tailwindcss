@@ -1,15 +1,16 @@
 {
+  "name": "bitmusing-xyz",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview"
+    "preview": "vite preview"
   },
   "devDependencies": {
-    "autoprefixer": "^10.3.1",
-    "postcss": "^8.3.5",
-    "tailwindcss": "^2.2.4",
-    "vite": "^2.4.2",
-    "vite-plugin-elm": "^2.4.2"
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.4",
+    "tailwindcss": "^2.2.19",
+    "vite": "^2.7.0",
+    "vite-plugin-elm": "^2.5.1"
   }
 }
