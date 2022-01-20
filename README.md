@@ -28,8 +28,7 @@
 ## Add to tailwind.config.js
 
 ```
-mode: 'jit,
-purge: ['./index.html', '.src/**/*.{js,elm}'],
+content: ['./index.html', './src/**/*.{js,elm}'],
 ```
 
 ## vite.config.js
@@ -67,6 +66,8 @@ Elm.Main.init({
 ```
 
 ## Main.elm
+
+`mkdir src`
 
 `touch src/Main.elm`
 
