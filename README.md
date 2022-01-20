@@ -15,6 +15,10 @@
 
 `npm init vite@latest`
 
+`cd [project-name]`
+
+`npm install`
+
 `npm install -D tailwindcss@latest postcss@latest autoprefixer@latest`
 
 `npx tailwindcss init -p`
