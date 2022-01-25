@@ -4,8 +4,6 @@
 
 `npm install`
 
-`elm init`
-
 `npm run dev`
 
 
