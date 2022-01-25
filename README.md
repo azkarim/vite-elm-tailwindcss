@@ -86,6 +86,8 @@ main =
 
 ## Getting ready to develop
 
+`elm init`
+
 `npm run dev`
 
 
