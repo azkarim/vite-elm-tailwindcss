@@ -1,0 +1,20 @@
+# Editor
+.vscode
+
+# OSX
+.DS_Store
+
+# Elm
+elm-stuff
+
+# NPM
+node_modules
+npm-debug.log
+
+# Build
+dist
+*.actual.*
+*.tsbuildinfo
+
+# Bash
+run.sh
